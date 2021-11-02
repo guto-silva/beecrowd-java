@@ -1,4 +1,4 @@
-#EXERCÍCIOS DO BEECROWD RESOLVIDOS#
+# EXERCÍCIOS DO BEECROWD RESOLVIDOS
 
 Para aprender a programar, estou fazendo os exercícios propostos no site [beecrowd](https://www.beecrowd.com.br/judge/en/login).
 

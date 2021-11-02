@@ -1,6 +1,5 @@
 
 # BEECROWD - EXERCÍCIOS RESOLVIDOS EM JAVA
-=======
 
 Para aprender a programar, estou fazendo os exercícios propostos na plataforma [beecrowd](https://www.beecrowd.com.br/judge/en/login).
 

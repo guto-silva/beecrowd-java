@@ -3,6 +3,8 @@
 
 Para aprender a programar, estou fazendo os exercícios propostos na plataforma [beecrowd](https://www.beecrowd.com.br/judge/en/login).
 
+## Exercícios resolvidos - Categoria Iniciante
+*[Hello World!]*(https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1000.java)
 ### Anotações:
 
 TIPO DE DADO | VALOR PADRÃO | TAMANHO 

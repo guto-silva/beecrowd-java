@@ -4,7 +4,7 @@
 Para aprender a programar, estou fazendo os exercícios propostos na plataforma [beecrowd](https://www.beecrowd.com.br/judge/en/login).
 
 ## Exercícios resolvidos - Categoria Iniciante
---------------------------------------------------------------------------------------------------------- |
+1000 - 1014                                                                                               |
 :-------------------------------------------------------------------------------------------------------- |
 [1000 - Hello World!](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1000.java)          |
 [1001 - Extremamente Básico](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1001.java)   |

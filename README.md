@@ -5,8 +5,8 @@ Para aprender a programar, estou fazendo os exercícios propostos na plataforma 
 
 ## Exercícios resolvidos - Categoria Iniciante
 1000 - 1014                                                                                               |
-:-------------------------------------------------------------------------------------------------------- | [Distância Entre Dois Pontos](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1015.java)  |
-[1000 - Hello World!](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1000.java)          |
+:-------------------------------------------------------------------------------------------------------- | 
+[1000 - Hello World!](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1000.java)          |  [Distância Entre Dois Pontos](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1015.java)  |
 [1001 - Extremamente Básico](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1001.java)   |
 [1002 - Área do Círculo](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1002.java)       |
 [1003 - Soma Simples](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1003.java)          |

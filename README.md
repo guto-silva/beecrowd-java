@@ -4,7 +4,7 @@
 Para aprender a programar, estou fazendo os exercícios propostos na plataforma [beecrowd](https://www.beecrowd.com.br/judge/en/login).
 
 ## Exercícios resolvidos - Categoria Iniciante
-1000 - 1014                                                                                                      |
+1000 - 1018                                                                                                      |
 :----------------------------------------------------------------------------------------------------------------|
 [1000 - Hello World!](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1000.java)                 |  
 [1001 - Extremamente Básico](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1001.java)          |
@@ -23,7 +23,15 @@ Para aprender a programar, estou fazendo os exercícios propostos na plataforma 
 [1014 - Consumo](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1014.java)                      |
 [1015 - Distância Entre Dois Pontos](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1015.java)  |  
 [1016 - Distância](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1016.java)                    |
-[1017 - Gasto de Combustível](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1017.java)         |
+[1017 - Gasto de Combustível](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1017.java)         |  
+[1018 - Cédulas](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1018.java)                      |
+
+
+## Exercícios resolvidos - Categoria Strings
+
+Strings
+:----------------------------------------------------------------------------------------------------------------|
+[1168 - LED](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1168.java)                          |
 
 ### Anotações:
 

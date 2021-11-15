@@ -31,7 +31,8 @@ Para aprender a programar, estou fazendo os exercícios propostos na plataforma 
 
 Strings
 :----------------------------------------------------------------------------------------------------------------|
-[1168 - LED](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1168.java)                          |
+[1168 - LED](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1168.java)                          |  
+[1238 - Combinador](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1238.java)                   |  
 
 ### Anotações:
 

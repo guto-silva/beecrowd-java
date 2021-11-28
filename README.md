@@ -25,6 +25,7 @@ Para aprender a programar, estou fazendo os exercícios propostos na plataforma 
 [1016 - Distância](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1016.java)                    |
 [1017 - Gasto de Combustível](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1017.java)         |  
 [1018 - Cédulas](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1018.java)                      |
+[1019 - Conversão de Tempo](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1019.java)           |
 
 
 ## Exercícios resolvidos - Categoria Strings

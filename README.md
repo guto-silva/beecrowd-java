@@ -26,6 +26,8 @@ Para aprender a programar, estou fazendo os exercícios propostos na plataforma 
 [1017 - Gasto de Combustível](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1017.java)         |  
 [1018 - Cédulas](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1018.java)                      |
 [1019 - Conversão de Tempo](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1019.java)           |
+[1020 - Idade em Dias](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1020.java)                |
+[1021 - Notas e Moedas](https://github.com/guto-silva/beecrowd-java/blob/master/BeeCrowd1021.java)
 
 
 ## Exercícios resolvidos - Categoria Strings
